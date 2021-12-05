@@ -1,0 +1,1 @@
+1 - Crie uma pasta local e replique o explicado no tópico "Sistemas Locais de Controle de Versão", e na aula "Como era feito antes do Git?".
