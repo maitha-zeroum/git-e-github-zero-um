@@ -1,0 +1,11 @@
+1 - A partir da pasta local que você criou anteriormente (que agora você sabe que ela se chama "repositório"), inicialize um repositório git. DICA: reveja a aula de "Comandos básicos".
+
+2 - Após o repositório git inicializado, crie uma branch para criarmos uma nova versão daquele código. DICA: reveja a aula de "Comandos básicos".
+
+3 - Após os novos arquivos criados, adicione eles para serem enviados ao repositório remoto. DICA: reveja a aula de "Comandos básicos".
+
+4 - Agora, faça o commit das alterações. DICA: reveja a aula de "Comandos básicos".
+
+
+DICA EXTRA
+Pode ser necessário adicionar parametros ao seu comando Git. Nas aulas, até agora, explicamos apenas o conceito e o básico do comando (ainda explicaremos melhor mais a frente), então pode ser necessário que você estude mais um pouco cada comando "por fora". Utilize o site https://git-scm.com/docs como referência.
